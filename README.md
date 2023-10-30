@@ -36,11 +36,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vjoxgit7code&show_icons=true&locale=en" alt="vjoxgit7code" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vjoxgit7code&" alt="vjoxgit7code" /></p>
-### 🔝 Top Contributed Repo
-![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=vjoxgit7code&limit=5&theme=flat&combine_all_yearly_contributions=true)
-Generate a [gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.gif) or [svg](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg) image.
-[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/platane/platane/main.yml?label=action&style=flat-square)](https://github.com/Platane/Platane/actions/workflows/main.yml)
-[![GitHub release](https://img.shields.io/github/release/platane/snk.svg?style=flat-square)](https://github.com/platane/snk/releases/latest)
-[![GitHub marketplace](https://img.shields.io/badge/marketplace-snake-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
-![type definitions](https://img.shields.io/npm/types/typescript?style=flat-square)
-![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
+
