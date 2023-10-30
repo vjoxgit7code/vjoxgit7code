@@ -3,7 +3,7 @@
     <img src="https://github.com/vjoxgit7code/vjoxgit7code/blob/main/Banner.png" width="3000" height="230">
 </div>
 <h3 align="center">A passionate fullstack developer from India</h3>
-<img align="right" alt="coding" width="300" src="https://github.com/vjoxgit7code/vjoxgit7code/blob/main/giphy.gif" autoplay>
+<img align="right" alt="coding" width="400" src="https://github.com/vjoxgit7code/vjoxgit7code/blob/main/gif3.gif" autoplay>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vjoxgit7code&label=Profile%20views&color=0e75b6&style=flat" alt="vjoxgit7code" /> </p>
 
 - 🔭 I’m currently working on **Jr. Python Full Stack Intern**
@@ -36,3 +36,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vjoxgit7code&show_icons=true&locale=en" alt="vjoxgit7code" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vjoxgit7code&" alt="vjoxgit7code" /></p>
+### 🔝 Top Contributed Repo
+![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=vjoxgit7code&limit=5&theme=flat&combine_all_yearly_contributions=true)
