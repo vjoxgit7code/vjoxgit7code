@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm vignesh</h1>
+<div align="center" <img src=""></div>
 <h3 align="center">A passionate fullstack developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vjoxgit7code&label=Profile%20views&color=0e75b6&style=flat" alt="vjoxgit7code" /> </p>
 
 - 🔭 I’m currently working on **Jr. Python Full Stack Intern**
