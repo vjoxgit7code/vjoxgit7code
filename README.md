@@ -1,6 +1,7 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vignesh!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" style="color: yellow;" />
 </h1>
+
 <div align="center">
     <img src="https://github.com/vjoxgit7code/vjoxgit7code/blob/main/Banner.png" width="3000" height="230">
 </div>
