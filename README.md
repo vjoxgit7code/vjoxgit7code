@@ -1,10 +1,10 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vignesh!;" style="color: yellow;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vignesh;" style="color: yellow;" />
 </h1>
 
 
 <h3 align="center">A passionate Fullstack Python Developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/vjoxgit7code/vjoxgit7code/blob/main/gif3.gif" autoplay>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vjoxgit7code&label=Profile%20views&color=0e75b6&style=flat" alt="vjoxgit7code" /> </p>
 
 - 🔭 I’m currently working on **Jr. Python Full Stack Intern**
