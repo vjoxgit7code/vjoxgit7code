@@ -1,16 +1,18 @@
-<h1 align="center">Hi Everyone👋, I'm vignesh</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vignesh!;" />
+</h1>
 <div align="center">
     <img src="https://github.com/vjoxgit7code/vjoxgit7code/blob/main/Banner.png" width="3000" height="230">
 </div>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">A passionate Fullstack Python Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/vjoxgit7code/vjoxgit7code/blob/main/gif3.gif" autoplay>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vjoxgit7code&label=Profile%20views&color=0e75b6&style=flat" alt="vjoxgit7code" /> </p>
 
 - 🔭 I’m currently working on **Jr. Python Full Stack Intern**
 
-- 🌱 I’m currently learning **Django,flask,Bootstrap,tkinter,Python,Devops**
+- 🌱 I’m currently learning **Django,flask,Bootstrap,tkinter,Python,Machine Learning**
 
-- 👯 I’m looking to collaborate on **Python project**
+- 👯 I’m looking to collaborate on **Python project,Django and MachineLearning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vjoxgit7code](https://github.com/vjoxgit7code)
 
